@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Aravindhan-Senthilkumar/Chat_App_FrontEnd.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Aravindhan-Senthilkumar/ChatAPP_Backend_Deployment.git
